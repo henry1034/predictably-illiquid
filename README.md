@@ -1,7 +1,16 @@
 # predictably-illiquid
 GitHub repository for the code base for the paper "Predictably Illiquid: an investigation into UK equity market efficiency"
 
-The data for the the paper is available from the London Share Pirce Database Monthly file with the timeframe used between 01-01-1990 and 31-12-2024. 
+
+Data:
+
+1) The core data for the the paper is available from the London Share Pirce Database Monthly Stock file
+
+2) Fama French Five Factor Model data is available form: http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html 
+
+3) Volatility data is available from the London Share Pirce Database Daily Index file.
+
+Code:
 
 The code builds upon Drechsler, 2023 for analysis.
 
